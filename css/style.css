@@ -4,9 +4,10 @@ body {
     font-family: Oswald, sans-serif;
 }
 
-nav {
+nav ul {
     list-style: none;
     background-color: #4a4a4f;
+    text-align: center;
     padding: 0;
     margin: 0;
 }
